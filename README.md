@@ -46,7 +46,7 @@
                     <!--start of main image-->
                     <tr>
                         <td>
-                            <table width="100" cellspacing="0" cellpadding="0" border="0" align="left"
+                            <table width="100" cellspacing="0" cellpadding="0" border="0" align="center"
                                 style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
 
                                 <tr>
@@ -135,7 +135,7 @@
 
                     <tr>
                         <td>
-                            <table align="center" cellspacing="0" cellpadding="0" border="0" align="center">
+                            <table align="center" cellspacing="0" cellpadding="0" border="0">
 
                                 <tr>
                                     <td>
